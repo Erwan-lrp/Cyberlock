@@ -3,7 +3,7 @@
 Cyberlock est une application de gestion et de génération de mots de passe sécurisés.
 
 ⚠️ Statut du projet
-Application en cours de développement — version non finale.
+Application en cours de développement version non finale.
 
 🎯 Fonctionnalités prévues
 Stockage sécurisé des mots de passe
